@@ -15,5 +15,8 @@
         "postcss-import": "^16.0.1",
         "tailwindcss": "^3.4.1",
         "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "laravel-mix": "^6.0.49"
     }
 }
